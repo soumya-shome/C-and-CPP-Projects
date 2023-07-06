@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611746467 source:d:\programming languages\03. projects\sports team management\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql/mysql.h>
+	<sstream>
+
