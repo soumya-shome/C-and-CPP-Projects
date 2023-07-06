@@ -1,0 +1,6 @@
+1 Rohan 14
+2 Ritesh 15
+3 Mainak 13
+4 Abhirup 11
+5 Ayudh 14
+6 Ramesh 12

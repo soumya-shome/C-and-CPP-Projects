@@ -1,0 +1,6 @@
+1 sunny 12
+2 ert 18
+3 qwe 90
+4 qwe 56
+5 acd 11
+6 sds 23
